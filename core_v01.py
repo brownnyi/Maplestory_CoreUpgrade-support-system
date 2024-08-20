@@ -48,7 +48,7 @@ skill = [
     [3, 5, 4],
     [5, 6, 3]
 ]
-n = 3
+n = 2
 m = 4
 
 result = core(main, skill, n, m)
