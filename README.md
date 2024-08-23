@@ -4,7 +4,7 @@
 - 메이플 스토리 5차 전직 이후 사용할 수 있는 V매트릭스의 어려움을 겪어 조금이나마 개선해보고자 개발
 
 ![image](https://github.com/user-attachments/assets/d0c7baa5-036a-4b3a-b085-e992be76cc31)
-- 메이플스토리는 이미지와 같이 스킬코어와 강화코어로 나누어져 있다.
+- V매트릭스는 이미지와 같이 스킬코어와 강화코어, 특수코어로 나누어져 있다.
 
 ![image](https://github.com/user-attachments/assets/96b4a393-19b6-411e-ba34-6ef223c98caf)
 - 강화코어는 위 이미지와 같이 이전에 배웠던 스킬들을 강화해주는 개념으로 3개의 스킬이 합쳐져 있는 형태
